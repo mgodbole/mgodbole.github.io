@@ -1,3 +1,16 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+# name: Maneesh's Page
+
+# Short bio or description (displayed in the header)
+description: Welcome to Maneesh's page
+
     title: Maneesh's Page
-    description: A description of my site.
-    theme: minima # Or your chosen theme
+    # description: A description of my site.
+    # theme: minima # Or your chosen theme
+
+    # URL of your avatar or profile pic (you could use your GitHub profile pic)
+    avatar: https://avatars.githubusercontent.com/u/637593?v=4
