@@ -1,2 +1,2 @@
-**mgodbole.github.io
+# mgodbole.github.io
 Welcome to my page!
